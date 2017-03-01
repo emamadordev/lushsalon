@@ -271,7 +271,7 @@ margin-top:70px;
   .section1{
 
 
-
+ background-attachment: scroll;
 
   }
 
@@ -307,7 +307,12 @@ margin-top:70px;
 
 
 @media screen and (max-width: 767px) and (min-width: 481px) {
+  .section1{
 
+
+ background-attachment: scroll;
+
+  }
 
   .nav a{
 
